@@ -1,0 +1,27 @@
+*{
+    color: green;
+    background-color: lightgrey;
+}
+/*h1{
+    color: red;
+}
+p.odd {
+    color: blue;
+}
+
+
+
+p.even{ 
+    color: orangered;
+
+}
+#special {
+    background-color: lightgreen;
+}
+div a {
+    color: hotpink;
+}*/
+
+h2+p{
+    color: maroon;
+}
